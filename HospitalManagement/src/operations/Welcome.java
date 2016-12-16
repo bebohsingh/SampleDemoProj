@@ -17,5 +17,9 @@ public class Welcome
 		//patient.getPersonDetails(sc);
 		//ArrayList<Patient> p = new ArrayList<>(); 
 	}
+	
+	@Test
+	public void firstTest(){
+	}
 
 }
