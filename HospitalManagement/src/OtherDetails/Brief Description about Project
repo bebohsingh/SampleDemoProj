@@ -1,0 +1,12 @@
+1. Project Hospital Management comprises of Patient and Doctor details. 
+2. Firstly it will ask for New User Registration (it will take entry as 1) or
+   if there is any Existing User who is already registered (will take entry as 2). 
+3. If Person enters 1 then it will take to New User Registration Page 
+   and will again ask if new user is Patient or Doctor. 
+4. Now, if User is Patient then user have to fill details of Patient module 
+   and if new user is Doctor then user has to fill details of Doctor.
+
+5. After Registration of new user (Doctor or Patient) a unique Id will be generated 
+   for respective Patient or Doctor which will be used in case of Existing user. 
+6. If Existing User has to find his /her details as a Patient then that user has to put unique id 
+   and his/her details will be populated and that person can fix appointment with particular Doctor.

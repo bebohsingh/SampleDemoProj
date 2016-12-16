@@ -1,0 +1,7 @@
+1. Modularity or Separation of Concerns- Breaking down complex problem in small modules and every module has separate concern.
+2. Single Responsibility Principle- Every class has its own responsibility to handle its own concern.
+3. Abstraction concept 
+4. Inheritance
+5. Exception Handling
+6. Collections
+7. Interfaces

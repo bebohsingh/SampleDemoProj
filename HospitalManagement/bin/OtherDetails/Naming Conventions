@@ -1,0 +1,9 @@
+1. First letter of class name should be capitalized and other should be small.
+2. Method names should be in lower class letters. If there are three characters in a method,
+   then first letter should be in lower case and starting of other letters should be in upper case.
+3. Local variables, instance variables and class variables are written in lower-case letters. 
+4. Variables names should not start with underscore or dollar ($) sign.
+4. Variables names should be short and precise and should be meaningful.
+5. Constants should be written in upper-case characters separated by underscores.
+6. Package name should be written in all lower-case letters.
+7. Interface names should be capitalized like class names.
